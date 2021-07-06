@@ -1,46 +1,14 @@
 # 모두를 위한 딥러닝 시즌2 : 모두가 만드는 모두를 위한 딥러닝
 
-모두가 만드는 모두를 위한 딥러닝 시즌 2에 오신 여러분들 환영합니다. 
-
-## Getting Started
-
-아래 링크에서 슬라이드와 영상을 통해 학습을 시작할 수 있습니다.
-
-* Slide: http://bit.ly/2VrZcWM
-* YouTube: http://bit.ly/2UVk3kn
-
-### Docker 사용자를 위한 안내
-
-동일한 실습 환경을 위해 docker 를 사용하실 분은  [docker_user_guide.md](docker_user_guide.md) 파일을 참고하세요! :)
-
-### Install Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-Install PyTorch from website: [https://pytorch.org/](https://pytorch.org/)
-
-
----
-
-## PyTorch
-
-Deep Learning Zero to All - PyTorch
-
-모든 코드는 PyTorch 1.0.0 기준으로 작성하였습니다. 
-
-## Contributions/Comments
-
-언제나 여러분들의 참여를 환영합니다. Comments나 Pull requests를 남겨주세요
-
-We always welcome your comments and pull requests
+모두가 만드는 모두를 위한 딥러닝 시즌 2에 오신 여러분들 환영합니다. <br>
+sju0924가 공부할라고 돚거해온 레포지토리입니다.
+딥러닝 빡고수가 되는 그날까지
 
 ## 목차
 
 ### PART 1: Machine Learning & PyTorch Basic 
 
-* Lab-01-1 Tensor Manipulation 1
+* Lab-01-1 Tensor Manipulation 1(07/06 완료)
 * Lab-01-2 Tensor Manipulation 2
 * Lab-02 Linear regression
 * Lab-03 Deeper Look at GD
